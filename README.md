@@ -1,7 +1,5 @@
 # 📊 Apple Inc. Financial Performance Analysis (2021–2023)
 
-![Apple Banner](Screenshots/key_ratios.png)
-
 ## 🚀 Project Overview
 
 This project analyzes the **financial health and performance of Apple Inc.** over the last 3 years (2021–2023), using key financial statements — **Income Statement**, **Balance Sheet**, and **Cash Flow Statement**.
@@ -58,10 +56,8 @@ This project analyzes the **financial health and performance of Apple Inc.** ove
 
 ## 📬 Let’s Connect
 
-I’m actively seeking **Data/Business Analyst roles** at top product/finance firms like **S&P Global**.  
 If you found this project valuable, feel free to ⭐ the repo or reach out for collaboration.
 
 📧 [LinkedIn Profile](www.linkedin.com/in/smithsolanki)  
-📄 [Download the Report](./Financial_Report.docx)
 
 
