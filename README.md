@@ -10,7 +10,7 @@ This project analyzes the **financial health and performance of Apple Inc.** ove
 
 ## 📂 Contents
 
-- `Apple_Financials.xlsx` → Cleaned financials with KPIs & visual dashboards  
+- `Apple_Financial_Health.xlsx` → Cleaned financials with KPIs & visual dashboards  
 - `Financial_Report.docx` → Insightful business-style report  
 - `Screenshots/` → Excel visuals (Key Ratios, Trends, Dashboard)
 
